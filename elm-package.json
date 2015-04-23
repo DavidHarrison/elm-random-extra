@@ -19,6 +19,7 @@
         "Random.Touch",
         "Random.Window"
     ],
+    "elm-version": "0.15.0"
     "dependencies": {
         "elm-lang/core": "1.1.0 <= v < 2.0.0"
     }
